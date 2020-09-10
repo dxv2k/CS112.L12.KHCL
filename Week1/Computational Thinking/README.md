@@ -14,9 +14,14 @@ There are four what we call pillars to **Computational Thinking**
 ## Decomposition
 The power of **Computational Thinking** start with **Decomposition**, which is the process of taking a complex problem and breaking it into smaller, more manageable sub-problems. With **Decompostion**, problems that seem overwhelming at first become much more manageable.
 > *“If you can’t solve a problem, then there is an easier problem you can solve: find it.”* George Pólya
-### Examples of Decomposition
+### Examples of **Decomposition**
 - **Learn a new language** - Students learn about sentence structure in a foreign languge by breaking it down into different parts like subject, verb, and object.
 - **Programming a new game** - Students need to consider the story of the game, environment, characters, as well as consider how different actions will take place, how it will be deployed, and so much more.
 ## Pattern Recognition
+**Pattern Recognition** means finding similarities or shared characteristics within or between problem and allows us to use the same solution for each occurence of the pattern.
+### Examples of **Pattern Recognition**
+- **Social Media Site: Photo Albums** -  Facebook, Instagram or many other form of social media have to handle the upload of an album of photos. Each of photo in the album would first be analyzed for metadata and after that, compressed images. then metadata and images stored in data server. Although the photos are different, the processing of each photos is the same. So that we can use **pattern recognition**
+- **Recommendation system** - When Netflix, Spotify, Youtube, etc. recommends shows based on your interests. The recommendation system rely on **pattern recognition**.
+- **Programming a game** When coding a game, we may recognize similar objects, patterns, and actions. Finding these allows us to apply the same, or slightly modified some objects or actions in the game, which makes our programming more efficient.
 ## Abstraction
 ## Algorithms
