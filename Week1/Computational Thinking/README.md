@@ -12,6 +12,11 @@ There are four what we call pillars to **Computational Thinking**
 4. [Algorithms](##Algorithms)
 
 ## Decomposition
+The power of **Computational Thinking** start with **Decomposition**, which is the process of taking a complex problem and breaking it into smaller, more manageable sub-problems. With **Decompostion**, problems that seem overwhelming at first become much more manageable.
+> *“If you can’t solve a problem, then there is an easier problem you can solve: find it.”* George Pólya
+### Examples of Decomposition
+- **Learn a new language** - Students learn about sentence structure in a foreign languge by breaking it down into different parts like subject, verb, and object.
+- **Programming a new game** - Students need to consider the story of the game, environment, characters, as well as consider how different actions will take place, how it will be deployed, and so much more.
 ## Pattern Recognition
 ## Abstraction
 ## Algorithms

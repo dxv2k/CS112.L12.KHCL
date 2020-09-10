@@ -10,7 +10,7 @@ Giải các bài tập môn phân tích và thiết kế thuật toán
   * [ ] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
     * [x] Introduction
     * [ ] Pillars of Computational Thinking
-      * [ ] Decomposition
+      * [x] Decomposition
       * [ ] Pattern Recognition
       * [ ] Abstraction
       * [ ] Algorithms
