@@ -7,4 +7,10 @@ Giải các bài tập môn phân tích và thiết kế thuật toán
 # Progress
 * [ ] 1. Week 1
   * [ ] 1.1. BOT (Built-Operation-Transfer)
-  * [ ] 1.2. COMPUTATIONAL THINKING
+  * [ ] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
+    * [x] Introduction
+    * [ ] Pillars of Computational Thinking
+      * [ ] Decomposition
+      * [ ] Pattern Recognition
+      * [ ] Abstraction
+      * [ ] Algorithms
