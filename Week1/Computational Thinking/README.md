@@ -22,6 +22,6 @@ The power of **Computational Thinking** start with **Decomposition**, which is t
 ### Examples of **Pattern Recognition**
 - **Social Media Site: Photo Albums** -  Facebook, Instagram or many other form of social media have to handle the upload of an album of photos. Each of photo in the album would first be analyzed for metadata and after that, compressed images. then metadata and images stored in data server. Although the photos are different, the processing of each photos is the same. So that we can use **pattern recognition**
 - **Recommendation system** - When Netflix, Spotify, Youtube, etc. recommends shows based on your interests. The recommendation system rely on **pattern recognition**.
-- **Programming a game** When coding a game, we may recognize similar objects, patterns, and actions. Finding these allows us to apply the same, or slightly modified some objects or actions in the game, which makes our programming more efficient.
+- **Programming a game** - When coding a game, we may recognize similar objects, patterns, and actions. Finding these allows us to apply the same, or slightly modified some objects or actions in the game, which makes our programming more efficient.
 ## Abstraction
 ## Algorithms
