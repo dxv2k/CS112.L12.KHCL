@@ -25,4 +25,18 @@ The power of **Computational Thinking** start with **Decomposition**, which is t
 - **Recommendation system** - When Netflix, Spotify, Youtube, etc. recommends shows based on your interests. The recommendation system rely on **pattern recognition**.
 - **Programming a game** - When coding a game, we may recognize similar objects, patterns, and actions. Finding these allows us to apply the same, or slightly modified some objects or actions in the game, which makes our programming more efficient.
 ## Abstraction
+In Data representation and abstraction, we determine what characteristics of the problem are important and filter out those that are not. Using these to create a representation of the problem to be solved.
+### Examples of **Abstraction**
+- **Students infomation** - We managing students in the contexts of university for course registration by colecting some **inportant** infomations like name, ID, phone number, etc. and we don't need to collect **unimportant** infomations like favorite color, shoe size, etc...
+- **Programming a game** - When we make a racing game in the city, we have to make a lot of houses for the city and what we need is focus on exterior designs of these houses, not the interior.
 ## Algorithms
+An algorithm is a set of step-by-step instructions of how to solve a problem. It identifies what is to be done and the order in which they should be done. It can be described in human language, as a flowchart, or by using pseudo code.
+### Examples of **Algorithms**
+**How to make a cup of tea**
+1. Customer want black or herbal tea?
+2. `If` black tea -> set `Temperature = 212`, `else` -> set `Temperature = 180`
+3. Put type teabag in cup
+4. Fill electric kettle with water
+5. Heat water to value of `Temperature`
+6. Remove teabag
+7. Enjoy!

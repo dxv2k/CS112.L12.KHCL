@@ -12,5 +12,5 @@ Giải các bài tập môn phân tích và thiết kế thuật toán
     * [ ] Pillars of Computational Thinking
       * [x] Decomposition
       * [x] Pattern Recognition
-      * [ ] Abstraction
-      * [ ] Algorithms
+      * [x] Abstraction
+      * [x] Algorithms
