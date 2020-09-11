@@ -7,10 +7,10 @@
 * **Play game** - In League of legends, we plan how to beat the enemies by choose the good champion that counter enemies's champion wekk, pick the right runes or buy suitable items to beat the enemies.
 ### Pillars of Computational Thinking
 There are four what we call pillars to **Computational Thinking** 
-1. [Decomposition](##Decomposition)
-2. [Pattern Recognition](##Pattern-Recognition)
-3. [Abstraction](##Abstraction)
-4. [Algorithms](##Algorithms)
+1. [Decomposition](#decomposition)
+2. [Pattern Recognition](#pattern-recognition)
+3. [Abstraction](#abstraction)
+4. [Algorithms](#algorithms)
 
 ## Decomposition
 The power of **Computational Thinking** start with **Decomposition**, which is the process of taking a complex problem and breaking it into smaller, more manageable sub-problems. With **Decompostion**, problems that seem overwhelming at first become much more manageable.
