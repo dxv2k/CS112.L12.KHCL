@@ -8,7 +8,7 @@ Solve exercise **CS112.L12.KHCL** course.
 | [Đinh Xuân Vũ](https://github.com/dxv2k)              | 18521662 |
 # Progress
 * [ ] 1. Week 1
-  * [ ] 1.1. BOT (Built-Operation-Transfer)
+  * [x] 1.1. BOT (Built-Operation-Transfer)
   * [ ] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
     * [x] Introduction
     * [x] Pillars of Computational Thinking
