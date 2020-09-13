@@ -9,7 +9,7 @@ Solve exercise **CS112.L12.KHCL** course.
 # Progress
 * [ ] 1. Week 1
   * [ ] 1.1. BOT (Built-Operation-Transfer)
-  * [ ] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
+  * [x] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
     * [x] [Introduction](./Week1/Computational%20Thinking/README.md#introduction)
     * [x] [Pillars of Computational Thinking](Week1/Computational%20Thinking/README.md#pillars-of-computational-thinking)
       * [x] [Decomposition](Week1/Computational%20Thinking/README.md#decomposition)
