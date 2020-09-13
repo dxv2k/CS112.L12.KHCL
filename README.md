@@ -10,9 +10,9 @@ Solve exercise **CS112.L12.KHCL** course.
 * [ ] 1. Week 1
   * [ ] 1.1. BOT (Built-Operation-Transfer)
   * [ ] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
-    * [x] Introduction
-    * [x] Pillars of Computational Thinking
-      * [x] Decomposition
-      * [x] Pattern Recognition
-      * [x] Abstraction
-      * [x] Algorithms
+    * [x] [Introduction](./Week1/Computational%20Thinking/README.md#introduction)
+    * [x] [Pillars of Computational Thinking](Week1/Computational%20Thinking/README.md#pillars-of-computational-thinking)
+      * [x] [Decomposition](Week1/Computational%20Thinking/README.md#decomposition)
+      * [x] [Pattern Recognition](Week1/Computational%20Thinking/README.md#pattern-recognition)
+      * [x] [Abstraction](Week1/Computational%20Thinking/README.md#abstraction)
+      * [x] [Algorithms](Week1/Computational%20Thinking/README.md#algorithms)
