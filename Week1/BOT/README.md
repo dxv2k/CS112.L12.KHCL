@@ -1,6 +1,6 @@
 ## 1. Abstract
 - Given N tracks  
-- Found p,q parts that bring the most return on investment
+- Found continous p,q parts that bring the most return on investment
 ## 2.Pattern Recoginition
 - Maximum subarray
 ## 3.Algorithm designed
