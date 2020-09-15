@@ -2,11 +2,14 @@
 - Given N tracks  
 - Found continous p,q parts that bring the most return on investment
 ## 2.Pattern Recoginition
-- Maximum subarray
+- Maximum continous subarray
 ## 3.Algorithm designed
 - Dynamic programming
-- Input: `n`, `arr`
+- Input: `n`: , `arr`: 
 - Output: `start_track_pos`, `end_track_pos`, `return_on_investment_result`
+- Temporary: 
+- Condition: 
+    
 - Description:
 ```python
 if current sum < arr[i]:

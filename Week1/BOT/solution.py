@@ -1,33 +1,18 @@
-def solution(n,arr): 
-	p,q = 0,0 # p: start, q: end of the given part of the track  
-	sum, result = arr[0], arr[0] # return on investment with p,q part	
-	# for i in range(n): 
-	# 	sum = max(arr[i], sum + arr[i])
-	# 	result = max(result,sum) 
-	# return result 
-	for i in range(n): 
-		if arr[i] >= sum+arr[i]:
-			sum = arr[i]
-			p = i+1
-			print(arr[p])
-		else:  
-			sum = sum + arr[i] 
-			q = i
-			print(arr[q])
-		result = max(result,sum)
-	return p,q,result
+n = int(input())
+a = list(map(int, input().split()))
+p = 0
+q = 0
+temp_p = 0
+temp_profit = a[0]
+profit = -99999
 
-def main(): 
-	# test case 1 
-	n = 16 
-	arr = [2,-4,5,-8,4,-1,-1,1,1,1,-2,2,4,-6,9,-4] 
-	# answered: 5 15 12 
-	print(solution(n,arr))
-
-if __name__ == "__main__": 
-	main()
-
-
-
-
-
+for i in range(1, n):
+    temp_profit = temp_profit + a[i]
+    if temp_profit > profit:
+        profit = temp_profit
+        q = i
+        p = temp_p
+    if temp_profit < 0:
+        temp_profit = 0
+        temp_p = i + 1
+print(p + 1, q + 1, profit)
