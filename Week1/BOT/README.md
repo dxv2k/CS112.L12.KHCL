@@ -7,10 +7,10 @@
 - Dynamic programming
 - Input: `n`: , `arr`: 
 - Output: `start_track_pos`, `end_track_pos`, `return_on_investment_result`
-- Temporary: 
+- Temporary variable: 
 - Condition: 
-    
-- Description:
+-     
+- Description: psudo code
 ```python
 if current sum < arr[i]:
     ignore current sum
@@ -21,4 +21,5 @@ for i = 0 -> n:
     result = max(result,sum) 
 return result
 ```
+<!-- write psudocode here -->
 - Time complexity: O(n) # Not sure about this
