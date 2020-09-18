@@ -17,5 +17,5 @@ Solve exercise **CS112.L12.KHCL** course.
       * [x] [Abstraction](Week1/Computational%20Thinking/README.md#abstraction)
       * [x] [Algorithms](Week1/Computational%20Thinking/README.md#algorithms)
 * [ ] 2. Week 2
-  * [ ] 2.1. Seaweed
+  * [ ] 2.1. Algae
   * [ ] 2.2. Couting star
