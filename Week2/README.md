@@ -1,3 +1,6 @@
+<a href="https://colab.research.google.com/github/dxv2k/CS112.L12.KHCL/blob/master/Week2/Algae_Solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Please use Google Colab to view for better render!
 # [Algae Problem](./Algae.md)
 ![Algae Evolved](https://user-images.githubusercontent.com/48788781/94126485-df5ef500-fe81-11ea-8d3d-a7636531ebd1.png)
 We have create a table that calculate individuals day by day with `n = 1`
