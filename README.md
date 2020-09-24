@@ -16,7 +16,7 @@ Solve exercise **CS112.L12.KHCL** course.
       * [x] [Pattern Recognition](Week1/Computational%20Thinking/README.md#pattern-recognition)
       * [x] [Abstraction](Week1/Computational%20Thinking/README.md#abstraction)
       * [x] [Algorithms](Week1/Computational%20Thinking/README.md#algorithms)
-* [ ] 2. [Week 2](./Week2/)
+* [x] 2. [Week 2](./Week2/)
   * [x] 2.1. [Algae](./Week2/Algae_Solution.ipynb)
     * [x] [Source code](./Week2/Algae_Solution.py)
     * [x] [Explain](./Week2/Algae_Solution.md)
