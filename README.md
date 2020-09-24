@@ -17,7 +17,7 @@ Solve exercise **CS112.L12.KHCL** course.
       * [x] [Abstraction](Week1/Computational%20Thinking/README.md#abstraction)
       * [x] [Algorithms](Week1/Computational%20Thinking/README.md#algorithms)
 * [ ] 2. Week 2
-  * [ ] 2.1. Algae
+  * [x] 2.1. Algae
     * [x] [Source code](./Week2/Algae_Solution.py)
-    * [ ] Explain
-  * [ ] 2.2. Couting star
+    * [x] [Explain](./Week2/Algae_Solution.md)
+    * [ ] Jupyter Notebook version 
