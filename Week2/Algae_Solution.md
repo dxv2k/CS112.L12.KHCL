@@ -13,7 +13,6 @@
 - **Output**
   - Number of individual in the environment, which can be calculate by the function $n * Fibonacci(2k + 1)$
 ## Method 1: Use Recursion
-### Description
 The code and the graph below implement for the n-th Fibonancci number.
 ```python
 def fib(n): 
@@ -40,3 +39,14 @@ def fib(n):
 fib(1) fib(0)
 ```
 We can observe that does a lot of repeated work and this is the bad method if we have to find out n-th fibonacci number for very large 'n'. So that we can't use this method to solve this problem.
+## Method 2: Use Dynamic Programing
+## Method 3: Use Fibonacci Q-Matrix O(n)
+$$\begin{pmatrix}
+1 & 1\\
+1 & 0
+\end{pmatrix} ^ n = 
+\begin{pmatrix}
+F_{n+1} & F_n\\
+F_n & F_{n-1}
+\end{pmatrix}
+$$
