@@ -8,12 +8,14 @@ We have create a table that calculate individuals day by day with `n = 1`
 | 2   |   3   |   1   |   1   |  None |  None |         5         |
 | 3   |   8   |   3   |   1   |   1   |  None |         13        |
 | 4   |   21  |   8   |   3   |   1   |   1   |         34        |
+
 We recognize that `Total_individuals` looks like an array of Fibonancci. Let's look at the Fibonancci array below:
 | n                 | 0 | 1 | 2 |  3 |  4 |  5 |  6  |  7 |  8 |  9 |
 |-------------------|:-:|:-:|:-:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|
 | Fib(n)            | 0 | 1 | 1 |  2 |  3 |  5 |  8  | 13 | 21 | 34 |
 | Fib($2k+1$)       | 1 | 3 | 5 | 13 | 34 | 89 | 233 |    |    |    |
 | Total_individuals | 1 | 3 | 5 | 13 | 34 |    |     |    |    |    |
+
 With the table above we can recognize that the `Total_individuals` array are same as `Fib(2k+1)` array so the total individuals in the k-th day is the (2k+1)-th Fibonancci number. If `n != 1`, we multiply `n` with `Fib(2k+1)` to calculate that.
 
 ## Abstraction
