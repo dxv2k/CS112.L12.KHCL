@@ -8,7 +8,10 @@ Solve exercise **CS112.L12.KHCL** course.
 | [Đinh Xuân Vũ](https://github.com/dxv2k)              | 18521662 |
 # Progress
 * [x] 1. [Week 1](./Week1/)
-  * [x] 1.1. [BOT (Built-Operation-Transfer)](./Week1/BOT/solution.ipynb)
+  * [x] 1.1. [BOT (Built-Operation-Transfer)](./Week1/BOT/BT1.pdf)
+    * [x] [Source code](./Week1/BOT/solution.py)
+    * [x] [Explain](./Week1/BOT/README.md)
+    * [x] [Jupyter Notebook version](./Week1/BOT/solution.ipynb)
   * [x] 1.2. [COMPUTATIONAL THINKING](./Week1/Computational%20Thinking/README.md)
     * [x] [Introduction](./Week1/Computational%20Thinking/README.md#introduction)
     * [x] [Pillars of Computational Thinking](Week1/Computational%20Thinking/README.md#pillars-of-computational-thinking)
@@ -21,3 +24,8 @@ Solve exercise **CS112.L12.KHCL** course.
     * [x] [Source code](./Week2/Algae_Solution.py)
     * [x] [Explain](./Week2/Algae_Solution.md)
     * [x] [Jupyter Notebook version](https://colab.research.google.com/github/dxv2k/CS112.L12.KHCL/blob/master/Week2/Algae_Solution.ipynb)
+* [ ] 2. [Week 3](./Week3/)
+  * [ ] 2.1. [H Index](./Week3/H_Index.md)
+    * [ ] Source code
+    * [ ] Explain
+    * [ ] Jupyter Notebook version
