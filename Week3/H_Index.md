@@ -5,7 +5,7 @@ Một bài báo có điểm số trích dẫn là `c` nếu nó được trích 
 
 Chỉ số `H_Index` của một nhà khoa học bằng `k` lớn nhất nếu người đó có `k` bài báo, mỗi bài có điểm số trích dẫn không nhỏ hơn `k`. Ví dụ, một người có 10 bài báo, mỗi bài báo được trích dẫn không dưới 10 lần thì `H_Index` của người đó ít nhất là bằng 10.
 
-Một người có `n` bài báo, bài báo thứ `i` có điểm trích dẫn là ![formula](https://render.githubusercontent.com/render/math?math=c_{i%27}i%20=1\div%20n). Hãy xác định `H_Index` của người đó.
+Một người có `n` bài báo, bài báo thứ `i` có điểm trích dẫn là ![formula](https://render.githubusercontent.com/render/math?math=c_{i},i%20=1\div%20n). Hãy xác định `H_Index` của người đó.
 
 Dữ liệu: Vào từ thiết bị nhập chuẩn:
 - Dòng đầu tiên chứa một số nguyên ![formula](https://render.githubusercontent.com/render/math?math=n%20(1%20\leq%20n\leq%205\times10^5)),
