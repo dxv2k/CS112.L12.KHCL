@@ -1,6 +1,6 @@
 Click the badge bellow to use Google Colab for better render result!!!
 
-<a href="https://colab.research.google.com/github/dxv2k/CS112.L12.KHCL/blob/Week-3/Week3/H_Index_solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/dxv2k/CS112.L12.KHCL/blob/master/Week3/H_Index_solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # H Index problem
 Ví dụ ta cho 5 số nguyên 
