@@ -24,8 +24,8 @@ Solve exercise **CS112.L12.KHCL** course.
     * [x] [Source code](./Week2/Algae_Solution.py)
     * [x] [Explain](./Week2/Algae_Solution.md)
     * [x] [Jupyter Notebook version](https://colab.research.google.com/github/dxv2k/CS112.L12.KHCL/blob/master/Week2/Algae_Solution.ipynb)
-* [ ] 2. [Week 3](./Week3/)
-  * [ ] 2.1. [H Index](./Week3/H_Index.md)
-    * [ ] Source code
-    * [ ] Explain
-    * [ ] Jupyter Notebook version
+* [x] 2. [Week 3](./Week3/)
+  * [x] 2.1. [H Index](./Week3/H_Index.md)
+    * [x] [Source code](./Week3/H_Index_solution.py)
+    * [x] [Explain](./Week3/H_Index_solution.md)
+    * [x] [Jupyter Notebook version](./Week3/H_Index_solution.ipynb)
