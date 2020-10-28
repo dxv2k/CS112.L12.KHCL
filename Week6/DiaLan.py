@@ -6,12 +6,9 @@ def solution(n,k,a):
 
 
 
-
 n,k = map(int, input().split())
-a = list(map(int,input().split()))
-
-
-
+arr = list(map(int,input().split()))
+solution(n,k,arr)
 
 
 
