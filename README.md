@@ -37,16 +37,16 @@ Solve exercise **CS112.L12.KHCL** course.
   * [x] 5.1. [Khóa số](./Week5/)
     * [x] [Source code](./Week5/KhoaSo.py)
     * [x] [Jupyter Notebook version](./Week5/report_week5.ipynb)
-  * [ ] 5.2. [Tái cấu trúc]
-    * [ ] [Source code]
-    * [ ] [Jupyter Notebook version]
+  * [ ] 5.2. [Tái cấu trúc]()
+    * [ ] [Source code]() 
+    * [ ] [Jupyter Notebook version]()
 * [x] 6. [Week 6](./Week6/)
   * [x] 6.1. [Mức độ giống nhau](./Week6/)
     * [x] [Source code](./Week6/MucDoGiongNhau.py)
     * [x] [Jupyter Notebook version](./Week6/report.ipynb)
   * [ ] 6.2. [Địa Lan](./Week6/)
     * [ ] [Source code](./Week6/DiaLan.py)
-    * [ ] [Test plan, test case] () 
+    * [ ] [Test plan, test case]() 
     * [ ] [Jupyter Notebook version](./Week6/report_DiaLan.ipynb)
 
 
