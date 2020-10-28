@@ -33,3 +33,25 @@ Solve exercise **CS112.L12.KHCL** course.
   * [x] 4.1. [New Plant](./Week4/New_Plant.md)
     * [x] [Source code](./Week4/new_plant_solution.py)
     * [x] [Jupyter Notebook version](./Week4/New_Plant.ipynb)
+* [x] 5. [Week 5](./Week5/)
+  * [x] 5.1. [Khóa số](./Week5/)
+    * [x] [Source code](./Week5/KhoaSo.py)
+    * [x] [Jupyter Notebook version](./Week5/report_week5.ipynb)
+  * [ ] 5.2. [Tái cấu trúc]
+    * [ ] [Source code]
+    * [ ] [Jupyter Notebook version]
+* [x] 6. [Week 6](./Week6/)
+  * [x] 6.1. [Mức độ giống nhau](./Week6/)
+    * [x] [Source code](./Week6/MucDoGiongNhau.py)
+    * [x] [Jupyter Notebook version](./Week6/report.ipynb)
+  * [ ] 6.2. [Địa Lan](./Week6/)
+    * [ ] [Source code](./Week6/DiaLan.py)
+    * [ ] [Test plan, test case] () 
+    * [ ] [Jupyter Notebook version](./Week6/report_DiaLan.ipynb)
+
+
+
+
+
+
+
