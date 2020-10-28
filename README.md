@@ -50,8 +50,10 @@ Solve exercise **CS112.L12.KHCL** course.
     * [ ] [Jupyter Notebook version](./Week6/report_DiaLan.ipynb)
 
 
-
-
+# Seminar Geometric Algorithm
+## [Source code]()
+## [Presentation]()
+## [References]()
 
 
 
