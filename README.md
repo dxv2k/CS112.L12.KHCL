@@ -46,7 +46,7 @@ Solve exercise **CS112.L12.KHCL** course.
     * [x] [Jupyter Notebook version](./Week6/report.ipynb)
   * [ ] 6.2. [Địa Lan](./Week6/)
     * [ ] [Source code](./Week6/DiaLan.py)
-    * [ ] [Test plan, test case]() 
+    * [ ] [Test plan, test case](./Week6/testing_plant_DiaLan.ipynb) 
     * [ ] [Jupyter Notebook version](./Week6/report_DiaLan.ipynb)
 
 
