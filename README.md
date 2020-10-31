@@ -44,8 +44,8 @@ Solve exercise **CS112.L12.KHCL** course.
   * [x] 6.1. [Mức độ giống nhau](./Week6/)
     * [x] [Source code](./Week6/MucDoGiongNhau.py)
     * [x] [Jupyter Notebook version](./Week6/report.ipynb)
-  * [ ] 6.2. [Địa Lan](./Week6/)
-    * [ ] [Source code](./Week6/DiaLan.py)
+  * [x] 6.2. [Địa Lan](./Week6/)
+    * [x] [Source code](./Week6/DiaLan.py)
     * [ ] [Test plan, test case](./Week6/testing_plant_DiaLan.ipynb) 
     * [ ] [Jupyter Notebook version](./Week6/report_DiaLan.ipynb)
 
