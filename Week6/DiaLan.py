@@ -16,7 +16,6 @@ def solution(n,k,a):
             tmp = -1
             for x in a:
                 if (x >> pos) & 1 == 0 :
-                    print(x)
                     tmp_zero = count_zero_bit(mask & x,mask)
                     if tmp_zero > tmp:
                         tmp = tmp_zero
@@ -29,7 +28,6 @@ def solution(n,k,a):
             cnt += 1
             mask &= arg
             if (mask == 0): break
-        print(mask)
     if cnt <= k: 
         print("YES")
     else: 
