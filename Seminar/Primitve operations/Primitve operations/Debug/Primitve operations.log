@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Geometric Algorithms\Primitve operations\Primitve operations\Source.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+E:\Geometric Algorithms\Primitve operations\Primitve operations\Source.cpp(140,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Primitve operations.vcxproj -> E:\Geometric Algorithms\Primitve operations\Debug\Primitve operations.exe
