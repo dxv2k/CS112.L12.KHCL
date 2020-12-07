@@ -61,7 +61,7 @@ Solve exercise **CS112.L12.KHCL** course.
     * [ ] [Jupyter Notebook version](./Week8/)
   * [ ] 8.2. [Con đường gốm sứ](./Week8/)
     * [ ] [Source code](./Week8/)
-    * [ ] [Jupyter Notebook version](./Week78)
+    * [ ] [Jupyter Notebook version](./Week8)
 * [ ] 9. [Week 9](./Week9/)
   * [ ] 9.1. [Phần thưởng](./Week9/)
     * [ ] [Source code](./Week9/)
