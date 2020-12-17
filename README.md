@@ -61,14 +61,10 @@ Solve exercise **CS112.L12.KHCL** course.
       * [x] [Con đường gốm sứ](./Week8/ConDuongGomSu.py)
       * [x] [Số nguyên mới](./Week8/SoNguyenMoi.py)
     * [x] [Jupyter Notebook version](./Week8/Week8_Solution.ipynb)
-* [ ] 9. [Week 9](./Week9/)
-  * [ ] 9.1. [Phần thưởng](./Week9/)
-    * [ ] [Source code](./Week9/)
-    * [ ] [Jupyter Notebook version](./Week9/)
-  * [ ] 9.2. [Đèn LED](./Week9/)
-    * [ ] [Source code](./Week9/)
-    * [ ] [Test plan, test case](./Week9/) 
-    * [ ] [Jupyter Notebook version](./Week9/)
+* [x] 9. [Week 9](./Week9/)
+  * [x] Source code
+    * [x] [Đèn LED](./Week9/LED.py)
+  * [x] [Jupyter Notebook version](./Week9/Solution.ipynb)
 
 
 # Seminar Geometric Algorithm
