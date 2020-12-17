@@ -65,12 +65,3 @@ Solve exercise **CS112.L12.KHCL** course.
   * [x] Source code
     * [x] [Đèn LED](./Week9/LED.py)
   * [x] [Jupyter Notebook version](./Week9/Solution.ipynb)
-
-
-# Seminar Geometric Algorithm
-## [Source code]()
-## [Presentation]()
-## [References]()
-
-
-
