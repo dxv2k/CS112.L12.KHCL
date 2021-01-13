@@ -69,8 +69,8 @@ Solve exercise **CS112.L12.KHCL** course.
 # Geometric Seminar 
 * [Presentation](https://uithcm-my.sharepoint.com/:p:/r/personal/18521297_ms_uit_edu_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4718406D-067C-4B04-8448-7B963FF95E02%7D&file=Geometric%20Algorithms.pptx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1608619054160&action=edit&mobileredirect=true)
 * [Spreadsheet-Question](https://docs.google.com/spreadsheets/d/1wKp6VNHc4Ac1vlnCyFq9N2kgxJIEibXVoFedg55ZfLI/edit#gid=0)
-* [Report-Quiz] ("./Seminar/quiz_with_report/Class_2020_12_01__07_28_QZ_Geometric Algorithm Quiz.xlsx") 
-* [Quiz] ("./Seminar/quiz_with_report/Quiz_Geometric Algorithm Quiz.pdf")
+* [Report-Quiz](./Seminar/quiz_with_report) 
+* [Quiz](./Seminar/quiz_with_report) 
 * [Source code](./Seminar)
   * [Closet-Pair](./Seminar/Closet-Pair) 
   * [Primitive-Operation](./Seminar/Primitive-operations) 
